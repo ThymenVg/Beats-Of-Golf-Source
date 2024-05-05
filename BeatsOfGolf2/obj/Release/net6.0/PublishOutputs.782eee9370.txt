@@ -1,0 +1,5 @@
+C:\Users\Thymen\OneDrive\Documenten\WERK\Beats Of Golf\BeatsOfGolf2\BeatsOfGolf2\bin\Release\net6.0\publish\BeatsOfGolf2.exe
+C:\Users\Thymen\OneDrive\Documenten\WERK\Beats Of Golf\BeatsOfGolf2\BeatsOfGolf2\bin\Release\net6.0\publish\BeatsOfGolf2.dll
+C:\Users\Thymen\OneDrive\Documenten\WERK\Beats Of Golf\BeatsOfGolf2\BeatsOfGolf2\bin\Release\net6.0\publish\BeatsOfGolf2.deps.json
+C:\Users\Thymen\OneDrive\Documenten\WERK\Beats Of Golf\BeatsOfGolf2\BeatsOfGolf2\bin\Release\net6.0\publish\BeatsOfGolf2.runtimeconfig.json
+C:\Users\Thymen\OneDrive\Documenten\WERK\Beats Of Golf\BeatsOfGolf2\BeatsOfGolf2\bin\Release\net6.0\publish\BeatsOfGolf2.pdb

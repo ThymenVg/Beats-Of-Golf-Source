@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeatsOfGolf2", "BeatsOfGolf2\BeatsOfGolf2.csproj", "{AD341A10-02BB-4CF8-A3D0-2F5725995B83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD341A10-02BB-4CF8-A3D0-2F5725995B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD341A10-02BB-4CF8-A3D0-2F5725995B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD341A10-02BB-4CF8-A3D0-2F5725995B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD341A10-02BB-4CF8-A3D0-2F5725995B83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E18579F5-8EF8-4C1F-B433-39F78C3DE106}
+	EndGlobalSection
+EndGlobal

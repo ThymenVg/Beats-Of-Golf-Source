@@ -1,0 +1,14 @@
+C:\Users\Thymen\OneDrive\Documenten\WERK\Beats Of Golf\BeatsOfGolf2\BeatsOfGolf2\bin\Debug\net6.0\BeatsOfGolf2.exe
+C:\Users\Thymen\OneDrive\Documenten\WERK\Beats Of Golf\BeatsOfGolf2\BeatsOfGolf2\bin\Debug\net6.0\BeatsOfGolf2.deps.json
+C:\Users\Thymen\OneDrive\Documenten\WERK\Beats Of Golf\BeatsOfGolf2\BeatsOfGolf2\bin\Debug\net6.0\BeatsOfGolf2.runtimeconfig.json
+C:\Users\Thymen\OneDrive\Documenten\WERK\Beats Of Golf\BeatsOfGolf2\BeatsOfGolf2\bin\Debug\net6.0\BeatsOfGolf2.dll
+C:\Users\Thymen\OneDrive\Documenten\WERK\Beats Of Golf\BeatsOfGolf2\BeatsOfGolf2\bin\Debug\net6.0\BeatsOfGolf2.pdb
+C:\Users\Thymen\OneDrive\Documenten\WERK\Beats Of Golf\BeatsOfGolf2\BeatsOfGolf2\obj\Debug\net6.0\BeatsOfGolf2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thymen\OneDrive\Documenten\WERK\Beats Of Golf\BeatsOfGolf2\BeatsOfGolf2\obj\Debug\net6.0\BeatsOfGolf2.AssemblyInfoInputs.cache
+C:\Users\Thymen\OneDrive\Documenten\WERK\Beats Of Golf\BeatsOfGolf2\BeatsOfGolf2\obj\Debug\net6.0\BeatsOfGolf2.AssemblyInfo.cs
+C:\Users\Thymen\OneDrive\Documenten\WERK\Beats Of Golf\BeatsOfGolf2\BeatsOfGolf2\obj\Debug\net6.0\BeatsOfGolf2.csproj.CoreCompileInputs.cache
+C:\Users\Thymen\OneDrive\Documenten\WERK\Beats Of Golf\BeatsOfGolf2\BeatsOfGolf2\obj\Debug\net6.0\BeatsOfGolf2.dll
+C:\Users\Thymen\OneDrive\Documenten\WERK\Beats Of Golf\BeatsOfGolf2\BeatsOfGolf2\obj\Debug\net6.0\refint\BeatsOfGolf2.dll
+C:\Users\Thymen\OneDrive\Documenten\WERK\Beats Of Golf\BeatsOfGolf2\BeatsOfGolf2\obj\Debug\net6.0\BeatsOfGolf2.pdb
+C:\Users\Thymen\OneDrive\Documenten\WERK\Beats Of Golf\BeatsOfGolf2\BeatsOfGolf2\obj\Debug\net6.0\BeatsOfGolf2.genruntimeconfig.cache
+C:\Users\Thymen\OneDrive\Documenten\WERK\Beats Of Golf\BeatsOfGolf2\BeatsOfGolf2\obj\Debug\net6.0\ref\BeatsOfGolf2.dll

@@ -1,0 +1,6 @@
+1;C:\Program Files\Mozilla Firefox\firefox.exe
+2;5000
+3;firefox;0;0;600;600
+4;100;100
+5;150;150
+6;100;100;50;50
